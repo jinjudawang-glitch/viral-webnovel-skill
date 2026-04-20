@@ -1,0 +1,7 @@
+interface:
+  display_name: "爆款网文工坊"
+  short_description: "推进高追读玄幻网文连载生产"
+  default_prompt: "Use $viral-webnovel to create a high-retention xuanhuan cultivation webnovel premise, story bible, and first 5-chapter drafting round."
+
+policy:
+  allow_implicit_invocation: true
